@@ -23,7 +23,7 @@ SetupOCXFile=
 [Comment]
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -54,17 +54,13 @@ Delay 500
 ae_obj.SetPath ("E:\Program Files (x86)\按键精灵\按键精灵2014\Resource")
 
 
-//If (主窗体.自动剧情副本.Value And 主窗体.自动剧情错误次数.Value + 1 <= StoryFailCount )Then 
-//    Call StoryMission()
-//End If
+
+
+//Call StoryMission()
 //
-//If (主窗体.自动探索副本.Value)Then 
-//    Call MonsterMission()
-//End If
+//Call MonsterMission()
 //
-//If (主窗体.自动组队副本.Value)Then 
-//    Call PVETeamMession()
-//End If
+//Call PVETeamMession()
 
 
 //Call MonsterMission()
@@ -78,6 +74,9 @@ ae_obj.SetPath ("E:\Program Files (x86)\按键精灵\按键精灵2014\Resource")
 
 //PVE的关卡进入
 Function PVETeamMession()
+    If (主窗体.自动组队副本.Value =false)Then 
+        Exit Function
+    End If
     ToolSetCheckBox("主界面-卷轴")
     ToolFindPicWhile10Sec("主界面-组队")
     Delay 500
@@ -116,24 +115,38 @@ End Function
 
 //自动探索副本
 Function MonsterMission()
+    If (主窗体.自动探索副本.Value = false)Then 
+        Exit Function
+    End If
     Call ToolMoveToClick(522,120)
-        For 100
-            result = ToolFindPicWhile10Sec("怪物-关卡-"&(主窗体.目标探索关卡.ListIndex+1))
-            If result Then 
-                Delay 3000
-                result = ToolFindPicWhile10Sec("经验-探索")
-                If result = true Then 
-                    If FindNPCToFight() Then 
-                    	Call ToolFindPicByRectWhile10Sec("怪物-地图-返回(新)|怪物-地图-返回(新)2|怪物-地图-返回(新)|怪物-地图-返回(新)3|怪物-地图-返回(新)|怪物-地图-返回(新)4|怪物-地图-返回(新)5",55,5,90,40)
+    For 100
+        result = ToolFindPicWhile10Sec("怪物-关卡-"&(主窗体.目标探索关卡.ListIndex+1))
+        If result Then 
+            Delay 3000
+            result = ToolFindPicWhile10Sec("经验-探索")
+            If result = true Then 
+                If FindNPCToFight() Then
+                    If 主窗体.探索副本是否优先剧情副本.Value Then 
+                        Log("当前是否有剧情副本")
+                        If ToolFindPicByRectWhile10Sec("怪物-地图-返回(新)|怪物-地图-返回(新)2|怪物-地图-返回(新)|怪物-地图-返回(新)3|怪物-地图-返回(新)|怪物-地图-返回(新)4|怪物-地图-返回(新)5", 55, 5, 90, 40) Then 
+                            Log("有剧情副本，退出到主界面。等待自动副本开始")
+                            Exit Function
+                        Else 
+                            Log("没有，继续探索副本")
+                        End If
                     End If
                 End If
             End If
-        Next
+        End If
+    Next
 End Function
 
 
 //剧情任务
 Function StoryMission()
+    If (主窗体.自动剧情副本.Value = False or 主窗体.自动剧情错误次数.Value + 1 > StoryFailCount)Then 
+        Exit Function
+    End If
     Log("开始剧情副本")
     主窗体.当前战斗失败次数.Caption = 0
     StoryMission = False
@@ -186,6 +199,8 @@ Function FindNPCToFight()
     gotoRightSideCount = 5
     gotoLeftSideCount = 0
     
+    Log("开始搜索可战斗的怪物")
+    
     Call ToolSetCheckBox("战斗锁定出战")
     
     Do While loopForFindNPCToFight = False
@@ -200,27 +215,27 @@ Function FindNPCToFight()
             If (fightNPCResult And (resultForFoundBoss = False OR resultForFoundNPC = False)) Then 
                 Call Log("没有，则向右移动")
                 Call GotoRightSide()//向右移动
-                If FindBossBox() Then //找BOSS宝箱
-                    Exit Function
-                End If
+                Exit Do
             End If
         ElseIf fightBossResult Then
             Call Log("BOSS战结束后，检查当前是否有宝箱")
-            
-            If FindBossBox() Then //找BOSS宝箱
-                Exit Function
-            End If
+            Exit Do
         End If
         If resultForFoundBoss = False And resultForFoundNPC = False Then 
             Call Log("没有搜索到小怪和BOSS，向右移动")
             Call GotoRightSide()//向右移动
         End If
         If FindBossBox() Then //找BOSS宝箱
+            FindNPCToFight = True
             Exit Function
         End If
         Delay 3000
     Loop
-    FindNPCToFight = result
+    If FindBossBox() Then //找BOSS宝箱
+        FindNPCToFight = True
+        Exit Function
+    End If
+    
 End Function
 
 //查找BOSS宝箱
